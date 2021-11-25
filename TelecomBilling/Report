@@ -33,6 +33,12 @@ Modify records – edit the added records; name, phone number and/or amount of p
 
 View payment – shows amount to be paid
 
+
+
+MAIN.C
+
+https://github.com/Vamsi1439/M1_MiniProject_C/blob/main/TelecomBilling/Code%20main.C
+
 Search records – search for added/updated records in file
 
 Delete records – removes data permanently from file
